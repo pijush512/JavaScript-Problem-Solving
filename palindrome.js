@@ -14,5 +14,7 @@ const Palindrome = (str) => {
   }
 };
 
-console.log(Palindrome("madam"));
+const result = (Palindrome("madam"));
+console.log(result);
+
 console.log(Palindrome("hello"));

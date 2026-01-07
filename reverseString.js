@@ -9,4 +9,5 @@ const reverseString = (str) => {
   return reversed;
 }
 
-console.log(reverseString ("hello")) 
+const result = (reverseString ("hello")) ;
+console.log(result);
